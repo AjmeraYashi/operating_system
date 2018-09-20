@@ -5,4 +5,4 @@ This repository consists all my Operating System lab assignments that I have com
 * First Come First Serve (FCFS) scheduling algorithm.
 * Shortest Job First (SJF) scheduling algorithm.
 * Round Robin (RR) scheduling algorithm.
-*Producer Consumer problem without using Threads
+* Producer Consumer problem without using threads
