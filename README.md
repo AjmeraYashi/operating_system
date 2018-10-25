@@ -6,3 +6,4 @@ This repository consists all my Operating System lab assignments that I have com
 * Shortest Job First (SJF) scheduling algorithm.
 * Round Robin (RR) scheduling algorithm.
 * Producer Consumer problem without using threads
+* Producer Consumer problem using Threads
