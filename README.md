@@ -8,3 +8,4 @@ This repository consists all my Operating System lab assignments that I have com
 * Producer Consumer problem.
 * Producer Consumer problem using Threads.
 * Reader Writer problem using Threads.
+* Banker's Algorithm
