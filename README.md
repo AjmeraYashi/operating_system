@@ -9,3 +9,6 @@ This repository consists all my Operating System lab assignments that I have com
 * Producer Consumer problem using Threads.
 * Reader Writer problem using Threads.
 * Banker's Algorithm
+* FIFO Disk Scheduling algorithm
+* FIFO Page Replacement algorithm
+* LRU Page Replacement algorithm
